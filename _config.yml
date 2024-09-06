@@ -1,5 +1,5 @@
-title: Girma
-subtitle: My personal website/portifolio
+title: Girma Terfa
+subtitle: My personal website
 description: >- # this means to ignore newlines until "baseurl:"
   Curious, always wondering and learning. This site is built using devlopr-jekyll
 
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.JPG
 author: Girma Terfa
-author_bio: Hi, my name is Girma Terfa. I'm a computer science student at UCSD
+author_bio: Hi, my name is Girma Terfa. I am a computer science student at UCSD
 author_email: "gterfa@ucsd.edu"
 author_location: United States, CA
 #author_website_url: "https://sujaykundu.com"
@@ -40,17 +40,17 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: ucsd.png
                 college_name: UCSD
                 college_url: https://ucsd.edu
                 college_degree: CS 
@@ -71,9 +71,9 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+#twitter_username: xplor4r
+github_username:  gir-ma
+instagram_username: girma_11
 # facebook_username: johndoe
 # linkedin_username: johndoe
 # behance_username: johndoe
@@ -107,7 +107,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
