@@ -1,15 +1,15 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
+name: Girma Terfa
+username: gir-ma
+bio: "Hi I a Girma, a Software Developer and Computer Science Student."
+site: http://gir-ma.github.io
 avatar: johndoe.png
-email: mail@johndoe.com
+email: gterfa@ucsd.edu
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/gir-ma"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
+      url: "https://www.linkedin.com/in/girma-terfa-cs"
     - title: "youtube"
       url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     - title: "facebook"
