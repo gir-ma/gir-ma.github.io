@@ -1,7 +1,7 @@
 title: Girma
 subtitle: My personal website/portifolio
 description: >- # this means to ignore newlines until "baseurl:"
-  Curious, always learning and asking
+  Curious, always wondering and learning. This site is built using devlopr-jekyll
 
 url: "https://gir-ma.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,8 +29,8 @@ author: Girma Terfa
 author_bio: Hi, my name is Girma Terfa. I'm a computer science student at UCSD:D
 author_email: "gterfa@ucsd.edu"
 author_location: United States, CA
-author_website_url: "https://sujaykundu.com"
-typewrite-text: Hello! Welcome to my website. Please keep scrolling to learn more about me!!
+#author_website_url: "https://sujaykundu.com"
+typewrite-text: Hello! I am Girma, Welcome to my website. Please keep scrolling to learn more about me!!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -88,7 +88,7 @@ instagram_username: xplor4r
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: gir-ma
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
