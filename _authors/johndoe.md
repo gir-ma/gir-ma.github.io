@@ -1,8 +1,8 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
+name: Girma Terfa
+username: gir-ma
+bio: "Hi I a Girma, a Software Developer and Computer Science Student."
+site: http://gir-ma.github.io
 avatar: johndoe.png
 email: mail@johndoe.com
 social:
