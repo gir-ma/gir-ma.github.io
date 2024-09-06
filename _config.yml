@@ -12,7 +12,7 @@ urls:
       url: /
     - text: Projects
       url: /about
-    - text: CV
+    - text: Blog
       url: /blog
     - text: CV
       url: /gallery
@@ -29,9 +29,9 @@ author: Girma Terfa
 author_bio: Hi, my name is Girma Terfa. I'm a computer science student at UCSD:D
 author_email: "gterfa@ucsd.edu"
 author_location: United States, CA
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+author_website_url: "https://girmalegesseterfa.wixsite.com/girma-terfa"
+typewrite-text: Juniur Computer Science student at UCSD, a software developer and ... keep exploring to learn more
+hero_cover_img: home_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
