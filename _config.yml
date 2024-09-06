@@ -31,7 +31,7 @@ author_email: "gterfa@ucsd.edu"
 author_location: United States, CA
 #author_website_url: "https://sujaykundu.com"
 typewrite-text: Hello! I am Girma, Welcome to my website. Please keep scrolling to learn more about me!!
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: home_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -51,10 +51,10 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: UCSD
+                college_url: https://ucsd.edu
+                college_degree: CS 
+                description: Bachelor of Science
                 visibility: true
 
 # Projects
