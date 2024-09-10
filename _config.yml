@@ -32,18 +32,17 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: https://en.wikipedia.org/wiki/Pacific_Time_Zone
-header_pages:
-  - _pages/about.md
-  - _pages/projects.md
-  - _pages/cv.md
-  - _pages/contact.md
 
 include:
   - _pages
-
-# Custom CSS
-sass:
-  custom_css: "/assets/css/custom.css"
+header_pages:
+  - about
+  - projects
+  - cv
+  - contact
+# # Custom CSS
+# sass:
+#   custom_css: "/assets/css/custom.css"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
