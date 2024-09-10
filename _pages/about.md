@@ -2,7 +2,29 @@
 permalink: /about/
 title: "About"
 ---
+## About Me
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Education
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+* **Junior, Computer Science Major** at University of California, San Diego
+* **Cyber Security Analysis Course** at San Diego College of Continuing Education
+
+### Fun Facts
+
+* **Lifelong learner** with a passion for technology and problem-solving.
+* **Adaptable** and **resilient** due to experiences growing up in different cultures.
+* **Enthusiastic** about exploring new technologies and staying up-to-date with industry trends.
+
+### Hobbies
+
+* **Coding** on platforms like Codecademy and Harvard's free courses.
+* **Playing soccer** and enjoying other outdoor activities.
+* **Discovering new cultures** and learning about different perspectives.
+
+### Skills
+
+* **Programming languages:** Python, Java, C++ (some experience)
+* **Data structures and algorithms:** Strong foundation
+* **Problem-solving:** Ability to break down complex problems into smaller, manageable steps.
+* **Teamwork:** Collaborative and effective in group settings.
+* **Communication:** Clear and concise communication skills, both written and verbal.
