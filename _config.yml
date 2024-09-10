@@ -17,7 +17,6 @@
 title: Girma Terfa
 email: gterfa@ucsd.edu
 description: "Write an awesome description for your new site here."
-twitter_username: girma_11
 github_username: gir-ma
 minimal_mistakes_skin: default
 search: true
@@ -69,17 +68,17 @@ footer:
       url: "https://instagram.com/girma_11"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: "_pages"
