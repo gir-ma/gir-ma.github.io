@@ -1,8 +1,9 @@
 ---
-permalink: /about
-title: "About Me"
+permalink: /
+title: "Home"
 layout: single
 ---
+
 
 ## About Me
 
