@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Get in Touch"
 layout: single
-author_profile: false
+# author_profile: false
 ---
 
 <div class="contact-section">

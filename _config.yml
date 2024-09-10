@@ -32,6 +32,11 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: https://en.wikipedia.org/wiki/Pacific_Time_Zone
+header_pages:
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/cv.md
+  - _pages/contact.md
 
 include:
   - _pages
@@ -39,9 +44,6 @@ include:
 # Custom CSS
 sass:
   custom_css: "/assets/css/custom.css"
-
-sass:
-  custom_css: "/assets/css/main.css"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -63,18 +65,11 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 author:
-  name   : "Girma Terfa"
-  avatar : "/assets/images/grm_pic.JPG"
-  bio    : "Junier Computer Science Student at UC San Diego"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://girmalegesseterfa.wixsite.com/girma-terfa"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://linkedIn.com/girma-terfa-cs"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/girma-terfa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gir-ma"
@@ -85,14 +80,14 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://linkedIn.com/girma-terfa-cs"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/girma-terfa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/gir-ma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/girma_11"
 
 defaults:
   # _posts
