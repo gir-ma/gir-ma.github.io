@@ -36,6 +36,10 @@ timezone: https://en.wikipedia.org/wiki/Pacific_Time_Zone
 include:
   - _pages
 
+# Custom CSS
+sass:
+  custom_css: "/assets/css/custom.css"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

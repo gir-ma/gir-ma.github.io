@@ -1,13 +1,23 @@
 ---
-permalink: /about/
-title: "About"
+layout: single
+permalink: /
+title: "Home"
 ---
+
 ## About Me
 
 ### Education
 
-* **Junior, Computer Science Major** at University of California, San Diego
-* **Cyber Security Analysis Course** at San Diego College of Continuing Education
+**University of California, San Diego**  
+*San Diego, CA*  
+*Current - 05/2025*
+
+**San Diego Miramar College**  
+*San Diego, CA*  
+*05/2023*  
+*Associate of Science: Computer Science*  
+*Associate of Science: Pre-Engineering*  
+*Associate of Science: Mathematics*
 
 ### Fun Facts
 
