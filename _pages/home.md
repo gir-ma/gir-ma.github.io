@@ -3,8 +3,6 @@ permalink: /
 title: "Home"
 layout: single
 ---
-
-
 ## About Me
 
 ### Education

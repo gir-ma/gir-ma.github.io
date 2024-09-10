@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Girma Terfa
 email: gterfa@ucsd.edu
 description: "Write an awesome description for your new site here."
@@ -27,7 +26,11 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: https://en.wikipedia.org/wiki/Pacific_Time_Zone
+timezone: America/Los_Angeles
+
+# Add custom CSS
+head_scripts:
+  - /assets/css/custom.css
 
 include:
   - _pages
@@ -67,18 +70,33 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/girma_11"
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults for collections
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
