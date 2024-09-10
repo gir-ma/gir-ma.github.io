@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: /home
 title: "Home"
 ---
 
