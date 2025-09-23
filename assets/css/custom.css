@@ -59,3 +59,18 @@
 .contact-form input[type="submit"]:hover {
   background-color: #0056b3;
 }
+/* Girma's custom fix for pinned navbar */
+.masthead_inner-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* make sure it stays on top of content */
+  background: #fff; /* or your theme color */
+  border-bottom: 1px solid #ddd; /* optional for separation */
+}
+
+/* push page content down so it doesn't hide under the fixed navbar */
+body {
+  padding-top: 70px; /* adjust to match your masthead height */
+}
