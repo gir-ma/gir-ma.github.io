@@ -71,7 +71,7 @@ layout: single
       return;
     }
 
-    // Manual validation
+    // Manual validation extra safety feature
     const name = form.querySelector('#name').value.trim();
     const email = form.querySelector('#email').value.trim();
     const subject = form.querySelector('#subject').value.trim();
